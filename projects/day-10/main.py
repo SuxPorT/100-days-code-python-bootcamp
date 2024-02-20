@@ -1,5 +1,4 @@
-from replit import clear
-from art import logo
+import osfrom art import logo
 
 def add(n1, n2):
   return n1 + n2
@@ -19,6 +18,9 @@ operations = {
   "*": multiply,
   "/": divide
 }
+
+def cls():
+    os.system('cls' if os.name=='nt' else 'clear')
 
 def calculator():
   print(logo)
@@ -43,7 +45,7 @@ def calculator():
       num1 = answer
     else:
       should_continue = False
-      clear()
+      cls()
       calculator()
 
 calculator()

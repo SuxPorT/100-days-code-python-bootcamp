@@ -1,1 +1,3 @@
-# Day 18 - Intermediate - Turtle & the Graphical User Interface (GUI)
+# Day 18
+
+## Turtle & the Graphical User Interface (GUI)

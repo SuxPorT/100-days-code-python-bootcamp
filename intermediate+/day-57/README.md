@@ -1,1 +1,3 @@
-# Day 57 - Intermediate+ - Templating with Jinja in Flask Applications
+# Day 57
+
+## Templating with Jinja in Flask Applications

@@ -1,1 +1,3 @@
-# Day 27 - Intermediate - Tkinter, \*args, \*\*kwars and Creating GUI Programs
+# Day 27
+
+## Tkinter, \*args, \*\*kwars and Creating GUI Programs

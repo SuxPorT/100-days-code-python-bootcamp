@@ -1,1 +1,3 @@
-# Day 46 - Intermediate+ - Create a Spotify Playlist using the Musical Time Machine
+# Day 46
+
+## Create a Spotify Playlist Using The Musical Time Machine

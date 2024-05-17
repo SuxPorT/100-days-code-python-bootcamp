@@ -1,1 +1,3 @@
-# Day 32 - Intermediate+ - Send Email (smtplib) & Manage Dtes (datetime)
+# Day 32
+
+## Send Email (smtplib) & Manage Dtes (datetime) - Automated Birthday Wisher

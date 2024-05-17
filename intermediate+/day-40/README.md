@@ -1,1 +1,3 @@
-# Day 40 - Intermediate+ - Capstone Part 2: Flight Club
+# Day 40
+
+## Capstone Part 2: Flight Club

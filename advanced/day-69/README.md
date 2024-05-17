@@ -1,1 +1,3 @@
-# Day 69 - Advanced - Blog Capstone Project Part 4 - Adding Users
+# Day 69
+
+## Blog Capstone Project Part 4 - Adding Users

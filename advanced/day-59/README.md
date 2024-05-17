@@ -1,1 +1,3 @@
-# Day 59 - Advanced - Blog Capstone Project Part 2 - Adding Styling
+# Day 59
+
+## Blog Capstone Project Part 2 - Adding Styling

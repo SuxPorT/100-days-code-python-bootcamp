@@ -1,1 +1,3 @@
-# Day 42 - Web Foundation - Intermediate HTML
+# Day 42
+
+## Intermediate HTML

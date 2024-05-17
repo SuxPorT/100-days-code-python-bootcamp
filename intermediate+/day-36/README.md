@@ -1,1 +1,3 @@
-# Day 36 - Intermediate+ - Stock Trading News Alert Project
+# Day 36
+
+## Stock Trading News Alert Project

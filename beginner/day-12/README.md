@@ -1,1 +1,3 @@
-# Day 12 - Beginner - Scope & Number Guessing Game
+# Day 12
+
+## Scope & Number Guessing Game

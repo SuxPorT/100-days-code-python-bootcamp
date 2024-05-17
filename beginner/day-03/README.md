@@ -1,1 +1,3 @@
-# Day 03 - Beginner - Control Flow and Logical Operators
+# Day 03
+
+## Control Flow and Logical Operators

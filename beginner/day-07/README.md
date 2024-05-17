@@ -1,1 +1,3 @@
-# Day 07 - Beginner - Hangman
+# Day 07
+
+## Hangman

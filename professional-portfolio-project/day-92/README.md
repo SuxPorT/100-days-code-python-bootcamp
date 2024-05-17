@@ -1,1 +1,3 @@
-# Day 92 - Professional Portfolio Project - Image Colour Palette Generator
+# Day 92
+
+## Image Colour Palette Generator

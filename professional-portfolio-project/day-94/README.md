@@ -1,1 +1,3 @@
-# Day 94 - Professional Portfolio Project - Automate the Google Dinosaur Game
+# Day 94
+
+## Automate the Google Dinosaur Game

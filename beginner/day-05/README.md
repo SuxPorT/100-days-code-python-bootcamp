@@ -1,1 +1,3 @@
-# Day 05 - Beginner - Python Loops
+# Day 05
+
+## Python Loops

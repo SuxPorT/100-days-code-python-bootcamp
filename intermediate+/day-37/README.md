@@ -1,1 +1,3 @@
-# Day 37 - Intermediate+ - Habit Tracking Project: API Post Requests & Headers
+# Day 37
+
+## Habit Tracking Project: API Post Requests & Headers

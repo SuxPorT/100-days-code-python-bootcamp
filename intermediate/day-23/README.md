@@ -1,1 +1,3 @@
-# Day 23 - Intermediate - The Turtle Crossing Capstone Project
+# Day 23
+
+## The Turtle Crossing Capstone Project

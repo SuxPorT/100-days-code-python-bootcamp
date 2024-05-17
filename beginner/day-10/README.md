@@ -1,1 +1,3 @@
-# Day 10 - Beginner - Functions with Outputs
+# Day 10
+
+## Functions with Outputs

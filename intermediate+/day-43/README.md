@@ -1,1 +1,3 @@
-# Day 43 - Web Foundation - Introduction to CSS
+# Day 43
+
+## Introduction to CSS

@@ -1,1 +1,3 @@
-# Day 67 - Advanced - Blog Capstone Project Part 3 - RESTful Routing
+# Day 67
+
+## Blog Capstone Project Part 3 - RESTful Routing

@@ -1,1 +1,3 @@
-# Day 79 - Advanced - Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn
+# Day 79
+
+## Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn

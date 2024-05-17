@@ -1,1 +1,3 @@
-# Day 47 - Intermediate+ - Create an Automated Amazon Price Tracker
+# Day 47
+
+## Create an Automated Amazon Price Tracker

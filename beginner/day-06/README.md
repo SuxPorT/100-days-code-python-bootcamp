@@ -1,1 +1,3 @@
-# Day 06 - Beginner - Functions & Karel
+# Day 06
+
+## Functions & Karel

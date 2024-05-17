@@ -1,1 +1,3 @@
-# Day 70 - Advanced - Git, GitHub and Version Control
+# Day 70
+
+## Git, GitHub and Version Control

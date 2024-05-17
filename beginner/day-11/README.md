@@ -1,1 +1,3 @@
-# Day 11 - Beginner - The Blackjack Capstone Project
+# Day 11
+
+## The Blackjack Capstone Project

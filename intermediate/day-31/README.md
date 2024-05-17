@@ -1,1 +1,3 @@
-# Day 31 - Intermediate - Flash Card App Capstone Project
+# Day 31
+
+## Flash Card App Capstone Project

@@ -1,1 +1,3 @@
-# Day 14 - Beginner - High Lower Game Project
+# Day 14
+
+## High Lower Game Project

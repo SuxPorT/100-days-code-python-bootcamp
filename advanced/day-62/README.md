@@ -1,1 +1,3 @@
-# Day 62 - Advanced - Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project
+# Day 62
+
+## Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project

@@ -1,1 +1,3 @@
-# Day 09 - Beginner - Dictionaries, Nesting and the Secret Auction
+# Day 09
+
+## Dictionaries, Nesting and the Secret Auction

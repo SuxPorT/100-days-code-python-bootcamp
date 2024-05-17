@@ -1,1 +1,3 @@
-# Day 04 - Beginner - Randomisation and Python Lists
+# Day 04
+
+## Randomisation and Python Lists

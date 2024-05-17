@@ -1,1 +1,3 @@
-# Day 17 - Intermediate - The Quiz Project & the Benefits of OOP
+# Day 17
+
+## The Quiz Project & the Benefits of OOP

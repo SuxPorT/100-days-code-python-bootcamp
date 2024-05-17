@@ -1,1 +1,3 @@
-# Day 76 - Advanced - Beautiful Plotly Charts & Analysing the Android App Store
+# Day 76
+
+## Beautiful Plotly Charts & Analysing the Android App Store

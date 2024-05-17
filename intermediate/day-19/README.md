@@ -1,1 +1,3 @@
-# Day 19 - Intermediate - Instances, State and Higher Order Functions
+# Day 19
+
+## Instances, State and Higher Order Functions

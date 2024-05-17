@@ -1,1 +1,3 @@
-# Day 45 - Intermediate+ - Web Scrapping with Beautiful Soup
+# Day 45
+
+## Web Scrapping with Beautiful Soup

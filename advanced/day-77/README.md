@@ -1,1 +1,3 @@
-# Day 77 - Advanced - Computation with NumPy and N-Dimensional Arrays
+# Day 77
+
+## Computation with NumPy and N-Dimensional Arrays

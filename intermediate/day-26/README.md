@@ -1,1 +1,3 @@
-# Day 26 - Intermediate - List Comprehension and the NATO Alphabet
+# Day 26
+
+## List Comprehension and the Nato Alphabet

@@ -1,1 +1,3 @@
-# Day 34 - Intermediate+ - Intermediate API Practice - Creating a GUI Quiz App
+# Day 34
+
+## API Practice - Creating a GUI Quiz App

@@ -1,1 +1,3 @@
-# Day 16 - Intermediate - Object Oriented Progamming (OOP)
+# Day 16
+
+## Object Oriented Progamming (OOP)

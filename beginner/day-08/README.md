@@ -1,1 +1,3 @@
-# Day 08 - Beginner - Function Parameters & Caesar Cipher
+# Day 08
+
+## Function Parameters & Caesar Cipher

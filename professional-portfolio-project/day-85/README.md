@@ -1,1 +1,3 @@
-# Day 85 - Professional Portfolio Project - Image Watermarking Desktop App
+# Day 85
+
+## Image Watermarking Desktop App

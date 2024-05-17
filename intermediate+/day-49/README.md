@@ -1,1 +1,3 @@
-# Day 49 - Intermediate+ - Automating Job Applications on LinkedIn
+# Day 49
+
+## Automating Job Applications on LinkedIn

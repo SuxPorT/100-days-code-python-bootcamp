@@ -1,1 +1,3 @@
-# Day 52 - Intermediate+ - Instagram Follower Bot
+# Day 52
+
+## Instagram Follower Bot

@@ -1,1 +1,3 @@
-# Day 86 - Professional Portfolio Project - Typing Speed Test
+# Day 86
+
+## Typing Speed Test
